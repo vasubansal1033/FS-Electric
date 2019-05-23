@@ -2,6 +2,10 @@
 Contains stuff for FS electric
 
 # Useful links
+# Reports 
+1. Important report for Torque Vectoring - https://fenix.tecnico.ulisboa.pt/downloadFile/563345090415567/Dissertacao.pdf
+2. Electrical Circuitary by UWA report - http://robotics.ee.uwa.edu.au/theses/2012-REV-SAE-Electrics-Susanto.pdf
+
 # General electrical stuff
 1. https://www.youtube.com/user/AddOhms/playlists - AddOhms youtube channel
 2.  https://www.youtube.com/watch?v=wxjerCHCEMg - Pull up resistors AddOhms
@@ -15,16 +19,37 @@ Contains stuff for FS electric
 10. https://www.circuitspecialists.com/blog/consider-a-usb-oscilloscope/ - USB oscilloscope
 11. https://www.youtube.com/watch?v=XhQqtdTlRus - Working of a Zener diode
 12. https://www.youtube.com/watch?v=GrvvkYTW_0k - MOSFETS and how to use them?
-13. https://www.youtube.com/watch?v=E4IIiIhIYAg - Voltage regulator and Zener diode theory
+13. https://www.youtube.com/watch?v=xSQHfsHTS88&t -What is a Zener diode?
 14. https://www.youtube.com/watch?v=E4IIiIhIYAg - Using Zener diodes Part1
     https://www.youtube.com/watch?v=N9UDobarNhU - Using Zener diodes Part2
 15. https://youtu.be/GtH8lAzQf2A - Schottky Diodes and Zener diodes
 16. https://www.youtube.com/watch?v=VxMM4g2Sk8U - Working of a Li ion battery
 17. https://www.youtube.com/watch?v=IrB-FPcv1Dc - How to protect circuits from reverse voltage polarity
-     https://www.youtube.com/watch?v=IrB-FPcv1Dc - Similar
+    https://www.youtube.com/watch?v=7Tk5ghH_U2s - Similar
 18. Electronics for EVs- https://www.tempoautomation.com/blog/designing-automotive-electronics-for-electric-vehicles/
+                        https://www.mouser.in/applications/automotive-electric-vehicles/
+19. https://www.youtube.com/watch?v=Bine_PbyFSQ - Excellent video on MOSFETS and BJTs
+20. https://www.youtube.com/watch?v=4Hg7SLhetXM&list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB&index=11 - What are capacitors?
+21. https://www.youtube.com/watch?v=n9renPKEtUc&list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB&index=8 - Relays
+22. https://www.youtube.com/watch?v=KSOHwVoxpzg - MOSFET power losses
+23. http://ecee.colorado.edu/~ecen5017/lectures/CU/L1_slides.pdf - Slide 1 of EV course
+24. https://www.youtube.com/user/greatscottlab/videos - Great Scottlab - Good Youtube channel
+25. https://www.youtube.com/user/EEVblog/playlists - EEV blog - Good Youtube channel
+26. https://www.youtube.com/playlist?list=PLYS_1w0FFIANdG78JyJu3tsumsXVIcXUB - Simply Electronics basic electronics playlist
+27. https://www.youtube.com/watch?v=iuMngik0GR8 - Constant current source
+28. https://www.youtube.com/channel/UCXUJmu6KeyBgdXnWT9wZrqQ/videos - Videos for Buck and Boost converter(not watched)
+29. https://www.youtube.com/watch?v=kqCV-HGJc6A - Op Amps
+
+https://www.youtube.com/watch?v=rT-1gvkFj60 - BMS video - DIY or buy - Good video
+https://www.youtube.com/watch?v=UF62cxKa6tA - ESC for BLDC motor
+https://www.youtube.com/watch?v=W2VwAL7-8-o - What is Impedance
+https://www.youtube.com/watch?v=cJ_vDA7xsGs - Which is the best motor type?
+https://www.youtube.com/watch?v=SPoMvuRxwFw - VESC
+https://www.youtube.com/watch?v=woTiKij76cA - Schmiddt Trigger
 
 
+# Mechanical stuff
+1. https://www.youtube.com/watch?v=ARd-Om2VyiE&list=PLuUdFsbOK_8oiTXoONBIdF0vErGSGZbWs - Mechanical equipment design playlist
 
 
 # Related to Kalman filters
