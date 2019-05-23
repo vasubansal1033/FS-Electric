@@ -39,7 +39,17 @@ Contains stuff for FS electric
 27. https://www.youtube.com/watch?v=iuMngik0GR8 - Constant current source
 28. https://www.youtube.com/channel/UCXUJmu6KeyBgdXnWT9wZrqQ/videos - Videos for Buck and Boost converter(not watched)
 29. https://www.youtube.com/watch?v=kqCV-HGJc6A - Op Amps
-
+30. https://www.youtube.com/watch?v=UR0hOmjaHp0&list=PLUMWjy5jgHK20UW0yM22HYEUTMJfla7Mb - PID controllers
+    https://www.youtube.com/watch?v=4Y7zG48uHRo
+ 31. https://www.youtube.com/user/ControlLectures/playlists - Brian Douglas Playlist for basic Control systems.
+ 32. https://www.youtube.com/watch?v=9bs2cEyK7Uo - Slip Angle
+ 33. https://www.youtube.com/watch?v=CRvVDoQJjYI - Root Locus Method
+ 34. https://www.quora.com/What-is-linear-quadratic-regulator-LQR-and-its-applications-in-robotics-and-control-engineering-also-comparison-with-PID-FUZZY 
+ 35. Fuzzy logic - https://www.youtube.com/watch?v=rln_kZbYaWc
+                      https://www.youtube.com/watch?v=rln_kZbYaWc
+            
+ 36. LQR                     http://scriptedonachip.com/Optimal-Controllers-MPC
+                      https://www.tutorialspoint.com/control_systems/control_systems_feedback.htm
 https://www.youtube.com/watch?v=rT-1gvkFj60 - BMS video - DIY or buy - Good video
 https://www.youtube.com/watch?v=UF62cxKa6tA - ESC for BLDC motor
 https://www.youtube.com/watch?v=W2VwAL7-8-o - What is Impedance
@@ -47,7 +57,9 @@ https://www.youtube.com/watch?v=cJ_vDA7xsGs - Which is the best motor type?
 https://www.youtube.com/watch?v=SPoMvuRxwFw - VESC
 https://www.youtube.com/watch?v=woTiKij76cA - Schmiddt Trigger
 
-
+Data Driven Control with Machine Learning - https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
+# Future reads -
+1. https://arxiv.org/pdf/1708.02215.pdf
 # Mechanical stuff
 1. https://www.youtube.com/watch?v=ARd-Om2VyiE&list=PLuUdFsbOK_8oiTXoONBIdF0vErGSGZbWs - Mechanical equipment design playlist
 
