@@ -9,6 +9,7 @@ Contains stuff for FS electric
 # General electrical stuff
 1. https://www.youtube.com/user/AddOhms/playlists - AddOhms youtube channel
 2.  https://www.youtube.com/watch?v=wxjerCHCEMg - Pull up resistors AddOhms
+    https://www.youtube.com/watch?v=00NTVf1dwPU
 3. https://www.youtube.com/watch?v=7ukDKVHnac4 - How do Transistors work?
 4. https://www.youtube.com/watch?v=stM8dgcY1CA - Working of Transistors - MOSFETS
 5. https://www.youtube.com/watch?v=81zNcctopBI - Why use current limiting resistors
