@@ -51,6 +51,7 @@ Contains stuff for FS electric
             
  36. LQR                     http://scriptedonachip.com/Optimal-Controllers-MPC
                       https://www.tutorialspoint.com/control_systems/control_systems_feedback.htm
+ 37. https://softwareengineering.stackexchange.com/questions/214912/why-does-a-proportional-controller-have-a-steady-state-error
 https://www.youtube.com/watch?v=rT-1gvkFj60 - BMS video - DIY or buy - Good video
 https://www.youtube.com/watch?v=UF62cxKa6tA - ESC for BLDC motor
 https://www.youtube.com/watch?v=W2VwAL7-8-o - What is Impedance
