@@ -59,6 +59,7 @@ https://www.youtube.com/watch?v=cJ_vDA7xsGs - Which is the best motor type?
 https://www.youtube.com/watch?v=SPoMvuRxwFw - VESC
 https://www.youtube.com/watch?v=woTiKij76cA - Schmiddt Trigger
 
+https://www.youtube.com/watch?v=hRAyfJLZnC0&list=PLmK1EnKxphikP6c9Yc9kGYO0kvrbEoWN8&index=2 - Power Electronics playlist
 Data Driven Control with Machine Learning - https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
 # Future reads -
 1. https://arxiv.org/pdf/1708.02215.pdf
