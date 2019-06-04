@@ -14,7 +14,7 @@ Contains stuff for FS electric
 4. https://www.youtube.com/watch?v=stM8dgcY1CA - Working of Transistors - MOSFETS
 5. https://www.youtube.com/watch?v=81zNcctopBI - Why use current limiting resistors
 6. https://www.youtube.com/watch?v=sRVvUkK0U80 - BJTs as Transistor switches
-7. https://www.youtube.com/watch?v=JPn5Ou-N0b0&list=PLuUdFsbOK_8qVROrfl2M2WSV2xAz-ABVU - Electrical machines(Types of motors) playlist
+
 8. https://www.youtube.com/watch?v=qVeERT4nyz8&list=PLuUdFsbOK_8o1BzPcXHwILC7UN0MmTo5-&index=2 - How do inverters work?
 9. https://www.youtube.com/watch?v=JNi6WY7WKAI&list=PLuUdFsbOK_8o1BzPcXHwILC7UN0MmTo5-&index=4 - How do diodes work?
 10. https://www.circuitspecialists.com/blog/consider-a-usb-oscilloscope/ - USB oscilloscope
@@ -42,7 +42,7 @@ Contains stuff for FS electric
 29. https://www.youtube.com/watch?v=kqCV-HGJc6A - Op Amps
 30. https://www.youtube.com/watch?v=UR0hOmjaHp0&list=PLUMWjy5jgHK20UW0yM22HYEUTMJfla7Mb - PID controllers
     https://www.youtube.com/watch?v=4Y7zG48uHRo
- 31. https://www.youtube.com/user/ControlLectures/playlists - Brian Douglas Playlist for basic Control systems.
+ 31. 
  32. https://www.youtube.com/watch?v=9bs2cEyK7Uo - Slip Angle
  33. https://www.youtube.com/watch?v=CRvVDoQJjYI - Root Locus Method
  34. https://www.quora.com/What-is-linear-quadratic-regulator-LQR-and-its-applications-in-robotics-and-control-engineering-also-comparison-with-PID-FUZZY 
@@ -59,9 +59,12 @@ https://www.youtube.com/watch?v=cJ_vDA7xsGs - Which is the best motor type?
 https://www.youtube.com/watch?v=SPoMvuRxwFw - VESC
 https://www.youtube.com/watch?v=woTiKij76cA - Schmiddt Trigger
 
-https://www.youtube.com/watch?v=hRAyfJLZnC0&list=PLmK1EnKxphikP6c9Yc9kGYO0kvrbEoWN8&index=2 - Power Electronics playlist
+# Important playlists
+Power Electronics playlist - https://www.youtube.com/watch?v=hRAyfJLZnC0&list=PLmK1EnKxphikP6c9Yc9kGYO0kvrbEoWN8&index=2 
 Data Driven Control with Machine Learning - https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
 Physical Modelling with Simscape Matlab - https://www.youtube.com/watch?v=liIKeYxa00I&list=PLn8PRpmsu08qZutTT-7dRthkAnFuQjCOV
+Brian Douglas Playlist for basic Control systems - https://www.youtube.com/user/ControlLectures/playlists
+Electrical machines(Types of motors) playlist - https://www.youtube.com/watch?v=JPn5Ou-N0b0&list=PLuUdFsbOK_8qVROrfl2M2WSV2xAz-ABVU
 # Future reads -
 1. https://arxiv.org/pdf/1708.02215.pdf
 # Mechanical stuff
