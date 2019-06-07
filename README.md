@@ -58,6 +58,19 @@ https://www.youtube.com/watch?v=W2VwAL7-8-o - What is Impedance
 https://www.youtube.com/watch?v=cJ_vDA7xsGs - Which is the best motor type?
 https://www.youtube.com/watch?v=SPoMvuRxwFw - VESC
 https://www.youtube.com/watch?v=woTiKij76cA - Schmiddt Trigger
+https://en.wikipedia.org/wiki/Bus_(computing) - BUS
+https://turbofuture.com/computers/buses
+https://en.wikipedia.org/wiki/CAN_bus
+https://www.khanacademy.org/science/electrical-engineering/robots/bit-zee/v/why-does-bit-zee-need-a-motor-controller
+https://www.youtube.com/watch?v=6Lm3uY3kDVo - Throttle pedal working
+Motor controller 
+https://www.unitek-industrie-elektronik.de/bamocar-d3-en
+https://www.youtube.com/watch?v=dyjo_ggEtVU
+https://www.youtube.com/watch?v=h7qzvAf-orI
+https://www.youtube.com/watch?v=W4-eZHROqVQ
+https://www.youtube.com/watch?v=ZMatnXANOGY
+https://www.youtube.com/watch?v=Dj7CtLjqxE8
+https://www.youtube.com/watch?v=rn2ArG6w_B0
 
 # Important playlists
 Power Electronics playlist - https://www.youtube.com/watch?v=hRAyfJLZnC0&list=PLmK1EnKxphikP6c9Yc9kGYO0kvrbEoWN8&index=2 
@@ -65,6 +78,9 @@ Data Driven Control with Machine Learning - https://www.youtube.com/watch?v=oulL
 Physical Modelling with Simscape Matlab - https://www.youtube.com/watch?v=liIKeYxa00I&list=PLn8PRpmsu08qZutTT-7dRthkAnFuQjCOV
 Brian Douglas Playlist for basic Control systems - https://www.youtube.com/user/ControlLectures/playlists
 Electrical machines(Types of motors) playlist - https://www.youtube.com/watch?v=JPn5Ou-N0b0&list=PLuUdFsbOK_8qVROrfl2M2WSV2xAz-ABVU
+Dronebot Workshop channel - https://www.youtube.com/channel/UCzml9bXoEM0itbcE96CB03w/playlists?view=1&sort=dd&shelf_id=0
+Core electronics - https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w/playlists
+
 # Future reads -
 1. https://arxiv.org/pdf/1708.02215.pdf
 # Mechanical stuff
