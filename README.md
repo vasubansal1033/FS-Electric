@@ -63,6 +63,8 @@ https://turbofuture.com/computers/buses
 https://en.wikipedia.org/wiki/CAN_bus
 https://www.khanacademy.org/science/electrical-engineering/robots/bit-zee/v/why-does-bit-zee-need-a-motor-controller
 https://www.youtube.com/watch?v=6Lm3uY3kDVo - Throttle pedal working
+https://www.youtube.com/watch?v=kSuuxrFM_j8 - Spur gear differential
+
 Motor controller 
 https://www.unitek-industrie-elektronik.de/bamocar-d3-en
 https://www.youtube.com/watch?v=dyjo_ggEtVU
