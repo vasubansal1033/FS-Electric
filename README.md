@@ -74,6 +74,10 @@ https://www.youtube.com/watch?v=ZMatnXANOGY
 https://www.youtube.com/watch?v=Dj7CtLjqxE8
 https://www.youtube.com/watch?v=rn2ArG6w_B0
 
+https://www.youtube.com/watch?v=J61_PKyWjxU
+
+
+Rotarty Encoder - https://www.youtube.com/watch?v=v4BbSzJ-hz4
 # Important playlists
 Power Electronics playlist - https://www.youtube.com/watch?v=hRAyfJLZnC0&list=PLmK1EnKxphikP6c9Yc9kGYO0kvrbEoWN8&index=2 
 Data Driven Control with Machine Learning - https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
@@ -82,6 +86,8 @@ Brian Douglas Playlist for basic Control systems - https://www.youtube.com/user/
 Electrical machines(Types of motors) playlist - https://www.youtube.com/watch?v=JPn5Ou-N0b0&list=PLuUdFsbOK_8qVROrfl2M2WSV2xAz-ABVU
 Dronebot Workshop channel - https://www.youtube.com/channel/UCzml9bXoEM0itbcE96CB03w/playlists?view=1&sort=dd&shelf_id=0
 Core electronics - https://www.youtube.com/channel/UCp5ShPYJvi2EA4hLUERa86w/playlists
+
+RTOS - https://www.youtube.com/watch?v=Oe9WzYjKYQg
 
 # Future reads -
 1. https://arxiv.org/pdf/1708.02215.pdf
